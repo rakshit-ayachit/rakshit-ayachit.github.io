@@ -1,55 +1,50 @@
-# Data Scientist
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-
+# Data Science
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**MACHINE LEARNING INTERN | June 2023 – July 2023
+Suvidha Foundation (Suvidha Mahila Mandal) - Nagpur**
+- Delivered 92% accuracy in customer churn prediction using TensorFlow and Keras while optimizing productivity by reducing training time by 40% through optimal usage of resources.
+- Enhanced underprivileged students' educational outcomes by improving intervention effectiveness by 30% through confusion matrix analysis and increasing accessibility with a resource-efficient CNN model.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**MANAGEMENT COMMITTEE MEMBER | September 2022 – May 2023
+Economics and Finance Society of Manipal - Manipal**
+- Mentored 15 members to elevate programming skills in C, C++, and Python, yielding a 20% boost in code quality, and collaborated on 3 impactful Finance, FinTech, and Economic Development projects.
+- Organized the 'Manipal Trading League,' immersing 200+ students from 10 colleges in practical stock trading experiences and elevating financial literacy by 25% through post-event surveys evaluating stock market comprehension.
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+**MANAGEMENT COMMITTEE MEMBER | February 2022 – Jan 2023
+IECSE MIT Manipal - Manipal**
+- Proficient in Machine Learning, led a team to coordinate impactful events attended by over 100 participants.
+- Skilled in DSA, collaborated with diverse clubs to conduct workshops and projects, promoting cross-disciplinary engagement and knowledge sharing.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+## Projects and Achievements
+### Medicinal Herb Classifier | Python - TensorFlow | Streamlit | AI Chatbot
+[Medicinal Herb Classifier](https://github.com/rakshit-ayachit/weve-got-herbes.git)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Implemented a real-time Emotion Detection Developed a Medicinal Herb Classifier for the Smart India Hackathon 2023, securing 9th place among 200+ teams. Built a precise herb identification system using TensorFlow and created a user-friendly interface with Streamlit. Integrated an AI chatbot for real-time herb information.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+### Disk Management System using Python | Python - CustomTkinter | shutil | psutil | hashlib
+[Disk Management System using Python](https://github.com/rakshit-ayachit/Disk-Space-Manager)
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+Secured 2nd runner-up position in Tally Code Brewers 2023 hackathon, developing a fully functional Disk Management System utilizing Python skills for backend and front-end using Tkinter. The project features included efficient file organization, real-time disk space analysis, and a user-friendly graphical interface.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+### Sign Language Recognition using LSTM Deep Learning algorithm | Python - OpenCV | Mediapipe | Tensorflow
+[Sign Language Recognition using LSTM Deep Learning algorithm](https://github.com/rakshit-ayachit/Sign_Language_Recognition/tree/main)
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+Developed a sign language recognition system using LSTM deep learning architecture to capture temporal dependencies in sign language gestures achieving high accuracy and real-time performance.
 
-- [Data Science Blog](https://medium.com/@shawhin)
+## TECHNICAL SKILLS
+- **Languages:** Java, Python, C/C++, MySQL(Database), HTML/CSS, Hadoop, Spark
+- **Developer Tools:** TensorFlow, Keras, VS Code, PyTorch, PyCharm, Flutter, Figma
+- **Libraries:** OpenCV, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Spark Streaming, MLlib, Apache Hive, NLTK
+- **Visualization Tools:** PowerBI
+
+## EDUCATION
+### Manipal Institute of Technology - Manipal, KA | Bachelor of Technology 
+### Data Science Engineering, 2025
+Current CGPA: 8.66
+
+### Abu Dhabi Indian School - Abu Dhabi, UAE | Diploma of Higher Education
+### Science, 2021
+- Grade: 95.4% in CBSE Grade 12 Examination
+- Grade: 97.4% in CBSE Grade 10 Examination
